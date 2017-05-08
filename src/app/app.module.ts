@@ -16,12 +16,12 @@ import { AuthGuard } from './auth.service';
 import { routes } from './app.routes';
 
 export const firebaseConfig = {
-  apiKey: "AIzaSyBaXnFz79ODpebNVv25bozycoQTwENdPpo",
-  authDomain: "arqlacarte-124a2.firebaseapp.com",
-  databaseURL: "https://arqlacarte-124a2.firebaseio.com",
-  projectId: "arqlacarte-124a2",
-  storageBucket: "arqlacarte-124a2.appspot.com",
-  messagingSenderId: "274713951877"
+  apiKey: "AIzaSyANTbZcc1SnPuFYt4IGVQ6UIx6nKEBDSdw",
+  authDomain: "arqalacarte-2daa0.firebaseapp.com",
+  databaseURL: "https://arqalacarte-2daa0.firebaseio.com",
+  projectId: "arqalacarte-2daa0",
+  storageBucket: "arqalacarte-2daa0.appspot.com",
+  messagingSenderId: "181109475113"
 };
 
 @NgModule({
